@@ -1,14 +1,13 @@
-# /growth website
 This is a community driven website of [/growth](https://warpcast.com/~/channel/growth). Please add the resources you've found **[here](https://forms.gle/YjzvtGgnQ84DqXdb7)**.
 
 <br>
 
 ## Index
-- Grow on Farcaster
-- AMAs - ask me anything
-- Tools/Resources
-- Case studies
-- Misc
+- [Grow on Farcaster](https://growthchannel.xyz/#grow-on-farcaster)
+- [AMAs - ask me anything](https://growthchannel.xyz/#toolsresources)
+- [Tools/Resources](https://growthchannel.xyz/#toolsresources)
+- [Case studies](https://growthchannel.xyz/#case-studies)
+- [Misc](https://growthchannel.xyz/#case-studies)
 
 <br>
 
