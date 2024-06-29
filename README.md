@@ -20,6 +20,7 @@ This is a community driven website of [/growth](https://warpcast.com/~/channel/g
 - Playbook for driving profitable Sound.xyz mint revenue on Boost - [here](https://warpcast.com/boostxyz/0x0099f80f)
 - Memecoins as GTM by [@li](https://warpcast.com/li) - [here](https://warpcast.com/li/0x5f6ef87d)
 - 11 Hacks to Grow Your Farcaster Account - [here](https://warpcast.com/percs/0xeb57e275)
+- 3 tips for growing on Farcaster by [ekinci.eth](https://warpcast.com/ekinci.eth/0x51be2777) - [here](https://paragraph.xyz/@growthcast/3-tips-for-growing-on-farcaster)
 
 <br>
 
