@@ -26,7 +26,11 @@ This is a community driven website of [/growth](https://warpcast.com/~/channel/g
 -----
 
 ## AMAs - ask me anything.
-- AMA with [@sandiforward](https://warpcast.com/sandiforward) : [here](https://warpcast.com/kbc/0xcb9b562c)
+- AMA with [@sandiforward](https://warpcast.com/sandiforward) - [here](https://warpcast.com/kbc/0xcb9b562c)
+- AMA with [@iamnicki](https://warpcast.com/iamnicki) - [here](https://warpcast.com/kbc/0xb9baf426)
+- AMA with [@dawufi](https://warpcast.com/dawufi) - [here](https://warpcast.com/kbc/0x5b76ccf9) 
+- AMA with [@loudesadeleer](https://warpcast.com/loudesadeleer) - [here](https://warpcast.com/kbc/0x90c47a7a) 
+- AMA with [@polymarket](https://warpcast.com/polymarket) - [here](https://warpcast.com/kbc/0x5b15f7fd) 
 
 <br>
 
