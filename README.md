@@ -8,6 +8,7 @@ This is a community driven website of [/growth](https://warpcast.com/~/channel/g
 - [Tools/Resources](https://growthchannel.xyz/#toolsresources)
 - [Case studies](https://growthchannel.xyz/#case-studies)
 - [Misc](https://growthchannel.xyz/#case-studies)
+- [FC native sponsorship opportunities - FOR BRANDS!!](https://growthchannel.xyz/)
 
 <br>
 
@@ -22,6 +23,7 @@ This is a community driven website of [/growth](https://warpcast.com/~/channel/g
 - 11 Hacks to Grow Your Farcaster Account - [here](https://warpcast.com/percs/0xeb57e275)
 - 3 tips for growing on Farcaster by [ekinci.eth](https://warpcast.com/ekinci.eth/0x51be2777) - [here](https://paragraph.xyz/@growthcast/3-tips-for-growing-on-farcaster)
 - How to Build Your Brand on Warpcast - [here](https://paragraph.xyz/@lampphotography/how-to-build-your-brand-on-warpcast)
+- Intro to Farcaster - [here](https://www.wysr.xyz/p/fast-rope-into-farcaster)
 
 <br>
 
@@ -72,3 +74,21 @@ This is a community driven website of [/growth](https://warpcast.com/~/channel/g
 
 ## Misc
 - Advice received on growing GitPaid - [here](https://warpcast.com/sohey.eth/0xa6748511)
+- Token listing strategy playbook - [here](https://x.com/ahboyash/status/1810303421037285813)
+- Web3 Gaming Growth Handbook - [here](https://x.com/Jihoz_Axie/status/1813340640433807795)
+
+
+-----
+
+
+## FC native sponsorship opportunities - FOR BRANDS!!
+
+- [@farcon](https://warpcast.com/farcon) - FarCon is a curated, multiday experience designed to convene, connect, and celebrate the driving forces behind Farcaster’s ecosystem: all of us.
+- [@gmfarcaster](https://warpcast.com/gmfarcaster) - 21 minutes of Farcaster news to start your day with your hosts [@adrienne](https://warpcast.com/adrienne) & [@nounishprof](https://warpcast.com/nounishprof).
+- [@casterbites](https://warpcast.com/casterbites) - get the top Farcaster content in your inbox every morning. 11k+ Subs.
+- [@yb](https://warpcast.com/yb) with [/toc](https://warpcast.com/~/channel/toc) - Your daily 1 minute Farcaster & Onchain summary.
+- [@bountycaster](https://warpcast.com/linda/0xaa6a8838) bounty frames!
+- [/los-fomos](https://warpcast.com/~/channel/los-fomos) with [@pauline-unik](https://warpcast.com/pauline-unik) & [@tako-unik](https://warpcast.com/tako-unik) - currently open for sponsorships / content partnerships for [/los-fomos](https://warpcast.com/~/channel/los-fomos) FM and their LF x OCS 🍸 series. 
+- [@kaloh](https://warpcast.com/kaloh) - have their [newsletter](https://kaloh.xyz/) with 16k subs.
+- [@arjantupan](https://warpcast.com/arjantupan) - [newsletter](https://paragraph.xyz/@trpplffct) which includes the Onchain Poetry Digest. Reached > 1000 inboxes.
+- [bcbhshow](https://warpcast.com/~/channel/bcbhshow) by [BeavChris](https://warpcast.com/christin) & [BArt-Head](https://warpcast.com/artlu) - They stream on unlonely. Sponsorships @ [client-bcbhshow.artlu.xyz/sponsorship](https://client-bcbhshow.artlu.xyz/sponsorship).
