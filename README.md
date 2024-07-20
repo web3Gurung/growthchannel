@@ -8,7 +8,7 @@ This is a community driven website of [/growth](https://warpcast.com/~/channel/g
 - [Tools/Resources](https://growthchannel.xyz/#toolsresources)
 - [Case studies](https://growthchannel.xyz/#case-studies)
 - [Misc](https://growthchannel.xyz/#case-studies)
-- [FC native sponsorship opportunities - FOR BRANDS!!](https://growthchannel.xyz/)
+- [FC native sponsorship opportunities - FOR BRANDS!!](https://growthchannel.xyz/#fc-native-sponsorship-opportunities---for-brands)
 
 <br>
 
@@ -48,6 +48,7 @@ This is a community driven website of [/growth](https://warpcast.com/~/channel/g
 - Consumer Crypto Product GTM - [here](https://warpcast.com/kunalvg/0x9d13fe0f)
 - Farcaster Analytics : Dune - [Farcaster major overview](https://dune.com/pixelhack/farcaster) and [Farcaster trends](https://dune.com/ilemi/farcaster-explorer)
 
+<br>
 
 -----
 
@@ -77,6 +78,7 @@ This is a community driven website of [/growth](https://warpcast.com/~/channel/g
 - Token listing strategy playbook - [here](https://x.com/ahboyash/status/1810303421037285813)
 - Web3 Gaming Growth Handbook - [here](https://x.com/Jihoz_Axie/status/1813340640433807795)
 
+<br>
 
 -----
 
