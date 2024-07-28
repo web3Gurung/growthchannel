@@ -94,3 +94,4 @@ This is a community driven website of [/growth](https://warpcast.com/~/channel/g
 - [@kaloh](https://warpcast.com/kaloh) - have their [newsletter](https://kaloh.xyz/) with 16k subs.
 - [@arjantupan](https://warpcast.com/arjantupan) - [newsletter](https://paragraph.xyz/@trpplffct) which includes the Onchain Poetry Digest. Reached > 1000 inboxes.
 - [bcbhshow](https://warpcast.com/~/channel/bcbhshow) by [BeavChris](https://warpcast.com/christin) & [BArt-Head](https://warpcast.com/artlu) - They stream on unlonely. Sponsorships @ [client-bcbhshow.artlu.xyz/sponsorship](https://client-bcbhshow.artlu.xyz/sponsorship).
+- Farcaster Ney Work ([fcny](https://warpcast.com/~/channel/fcny)) - they organise tech events in nyc and you can organize meetups with them. Hit up [@serendipity](https://warpcast.com/) and check [this page](https://fcny2.wordpress.com/fcny-sponsorship/) out.
