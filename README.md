@@ -24,6 +24,7 @@ This is a community driven website of [/growth](https://warpcast.com/~/channel/g
 - 3 tips for growing on Farcaster by [ekinci.eth](https://warpcast.com/ekinci.eth/0x51be2777) - [here](https://paragraph.xyz/@growthcast/3-tips-for-growing-on-farcaster)
 - How to Build Your Brand on Warpcast - [here](https://paragraph.xyz/@lampphotography/how-to-build-your-brand-on-warpcast)
 - Intro to Farcaster - [here](https://www.wysr.xyz/p/fast-rope-into-farcaster)
+- Getting engagement lesson by [percs](https://warpcast.com/percs) - [in a frame](https://warpcast.com/percs/0xfef13e04)
 
 <br>
 
@@ -47,6 +48,8 @@ This is a community driven website of [/growth](https://warpcast.com/~/channel/g
 - Publish token gated content within a frame: [here](https://warpcast.com/eliottmogenet/0x13baec1c)
 - Consumer Crypto Product GTM - [here](https://warpcast.com/kunalvg/0x9d13fe0f)
 - Farcaster Analytics : Dune - [Farcaster major overview](https://dune.com/pixelhack/farcaster) and [Farcaster trends](https://dune.com/ilemi/farcaster-explorer)
+- Content calendar strategy for farcaster - [here](https://warpcast.com/lampphotography/0x38f6b8b3)
+- Send 5k DCs per day wif [bello.lol](https://warpcast.com/~/channel/bello) - [here](https://warpcast.com/levy/0x33091e0b)
 
 <br>
 
