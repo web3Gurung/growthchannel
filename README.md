@@ -50,6 +50,7 @@ This is a community driven website of [/growth](https://warpcast.com/~/channel/g
 - Farcaster Analytics : Dune - [Farcaster major overview](https://dune.com/pixelhack/farcaster) and [Farcaster trends](https://dune.com/ilemi/farcaster-explorer)
 - Content calendar strategy for farcaster - [here](https://warpcast.com/lampphotography/0x38f6b8b3)
 - Send 5k DCs per day wif [bello.lol](https://warpcast.com/~/channel/bello) - [here](https://warpcast.com/levy/0x33091e0b)
+- [Crypto Community Building & GTM Collection](https://www.notion.so/34ac80acf5f14726aedc8c4977a47467) by [iamswastik23](https://x.com/iamswastik23)
 
 <br>
 
